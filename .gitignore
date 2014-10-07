@@ -3,6 +3,8 @@
 *.a
 *.so
 
+go-liveauth
+
 # Folders
 _obj
 _test
